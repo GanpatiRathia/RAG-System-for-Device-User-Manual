@@ -140,3 +140,8 @@ Update model names if needed based on the latest available models on Hugging Fac
 Verify that all required Python packages are installed and up-to-date.
 
 If encountering issues with package versions, consider creating a virtual environment and reinstalling dependencies.
+
+
+## Future Work
+
+Can use OpenAI's API,ngrok,and other pretrained models for better result with further training on user manual. Better UI can be created using Django/Flask for production grade application. 
