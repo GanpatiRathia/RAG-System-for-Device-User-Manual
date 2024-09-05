@@ -121,6 +121,20 @@ def generate_answer(prompt):
     return result[0]['generated_text'].strip()
 ```
 
+
+## Results 
+
+The performance of the system was evaluated on a set of sample queries. The following metrics and examples demonstrate the system's effectiveness:
+
+![Result 1](https://github.com/GanpatiRathia/RAG-System-for-Device-User-Manual/blob/main/result1.JPG)
+
+![Result 2](https://github.com/GanpatiRathia/RAG-System-for-Device-User-Manual/blob/main/result2.JPG)
+
+![Result 3](https://github.com/GanpatiRathia/RAG-System-for-Device-User-Manual/blob/main/result3.JPG)
+
+![Result 3](https://github.com/GanpatiRathia/RAG-System-for-Device-User-Manual/blob/main/result4.JPG)
+
+
 ## Troubleshooting
 
 1. **PDF Text Extraction Issues**
