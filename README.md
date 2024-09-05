@@ -2,7 +2,7 @@
 
 ## Link to github repository
 
-[Link Text](https://github.com/GanpatiRathia/RAG-System-for-Device-User-Manual)
+[RAG System for Device User Manual Repository](https://github.com/GanpatiRathia/RAG-System-for-Device-User-Manual)
 
 ## Overview
 
