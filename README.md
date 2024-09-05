@@ -1,5 +1,9 @@
 # RAG System for Device User Manual
 
+## Link to github repository
+
+[Link Text](https://github.com/GanpatiRathia/RAG-System-for-Device-User-Manual)
+
 ## Overview
 
 This project is a Retrieval-Augmented Generation (RAG) system that answers questions about a device user manual based on the contents of a PDF file. The system uses a combination of Sentence-BERT for text embeddings, FAISS for similarity search, and Hugging Face's `text-generation` pipeline to generate answers.
